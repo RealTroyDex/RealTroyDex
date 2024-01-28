@@ -1,18 +1,14 @@
-<h1 align="left">Sejam Bem Vindos ao meu Perfil!</h1>
+## Bem-vindo(a) ao meu perfil!!
 
-<p align="left">Meu nome é Gustavo, sou do Brasil</p>
-
-<h2 align="left">Tenho 16 anos de idade e muito curioso em aprender</h2>
-
-<p align="left">📚 Estou atualmente aprendendo: <br> </p> 
-<div align="left">
- <p>HTML5</p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 icon"/>
- <img width="12" />
- <p>CSS3</p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 icon" />
- <img width="12" />
- <p>Javascript</p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
- <img width="12" />
+ <div>
+   <a href="https://github.com/RealTroyDex">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealTroyDex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealTroyDex&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
